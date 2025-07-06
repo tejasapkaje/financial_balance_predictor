@@ -29,5 +29,5 @@ A user-friendly Streamlit app that predicts a person’s estimated total spend (
 
 **Tejas Pramod Apkaje**  
 🎓 Final Year CSE | G.H. Raisoni College of Engineering  
-🌐 [LinkedIn](www.linkedin.com/in/tejas-apkaje-6a3108354)  
+🌐 [LinkedIn](https://www.linkedin.com/in/tejas-apkaje-6a3108354/)  
 📫 tejasapkaje2729@gmail.com
