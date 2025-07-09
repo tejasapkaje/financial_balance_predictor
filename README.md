@@ -2,14 +2,14 @@
 
 A user-friendly Streamlit app that predicts a person’s estimated total spend (in INR) based on financial inputs like age, income, credit score, and more.
 
-🚀 **Live App**: [Click to View](https://financialpredictor-tkg2papwevt9esvcudg5us.streamlit.app/)
+🚀 **Live App**: [)
 
 ## 🔍 Features
 
 - 📊 Predict spending based on personal financial data
 - 🌐 Built using Python, Streamlit, and Scikit-learn
 - 🤖 Trained ML model for accurate regression predictions
-- 🖼️ Clean, emoji-rich UI with sidebar input controls
+- 🖼️ Clean UI with sidebar input controls
 
 ## 📁 Folder Structure
 
@@ -20,10 +20,11 @@ A user-friendly Streamlit app that predicts a person’s estimated total spend (
 - Streamlit
 - Scikit-learn
 - Pandas
+- numpy
 
 ## ✨ Screenshots
 
-![App Screenshot](![brave_screenshot_financialpredictor-tkg2papwevt9esvcudg5us streamlit app](https://github.com/user-attachments/assets/86a94ef3-785f-4661-9cef-85bb6c879604))
+![App Screenshot]()
 
 ## 👨‍💻 Author
 
