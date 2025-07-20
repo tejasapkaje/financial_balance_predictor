@@ -24,23 +24,11 @@ Clone the repository:
 git clone https://github.com/tejasapkaje/financial_balance_predictor.git
 cd financial_predictor
 
-Create and activate a virtual environment:
+Create and activate a virtual environment
 
-# For Windows
-python -m venv venv
-.\venv\Scripts\activate
+Install the required libraries
 
-# For macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-
-Install the required libraries:
-
-pip install -r requirements.txt
-
-Run the Streamlit app:
-
-streamlit run app.py
+Run the Streamlit app
 
 Your web browser will open with the local version of the application.
 
@@ -52,12 +40,3 @@ Web Framework: Streamlit
 Machine Learning: Scikit-learn
 
 Data Manipulation: Pandas, NumPy
-
-📁 Project Structure
-.
-├── app.py                  # Main Streamlit application script
-├── model.joblib            # Pre-trained machine learning model
-├── scaler.joblib           # Pre-trained data scaler
-├── requirements.txt        # Python libraries needed for the project
-├── train_model.py          # Script to train the model from scratch
-└── 02. financial_dataset.csv # The dataset used for training
