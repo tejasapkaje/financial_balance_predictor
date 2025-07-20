@@ -21,7 +21,7 @@ To run this project on your own machine, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/tejasapkaje/financial_predictor.git
+git clone https://github.com/tejasapkaje/financial_balance_predictor.git
 cd financial_predictor
 
 Create and activate a virtual environment:
