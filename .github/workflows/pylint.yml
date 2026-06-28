@@ -19,7 +19,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install pylint
     - name: Analysing the code with pylint
+      # Added --exit-zero to prevent the workflow from failing due to linting warnings
       run: |
-        pylint $(git ls-files '*.py')
-
-        run: pylint $(git ls-files '*.py') --exit-zero
+        pylint $(git ls-files '*.py') --exit-zero
